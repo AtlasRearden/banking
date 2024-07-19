@@ -28,6 +28,12 @@ const config = {
           500: "#6172F3",
           700: "#3538CD",
         },
+        // bankGradient: "#4B0082",
+        // indigo: {
+        //   500: "#8a2be2",
+        //   700: "#4b0082",
+        // },
+
         success: {
           25: "#F6FEF9",
           50: "#ECFDF3",

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "futprint.",
   description: "modern banking platform for everyone",
   icons: {
-    icon: "./logo/logo.svg",
+    icon: "/icons/icon8.svg",
   },
 };
 
